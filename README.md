@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Comment
+
+* node를 바탕으로 제작되어 있어 node 설치여부 확인 ( 명령어 node -v )
+* create-react-app 로 설치후 clone 했다면 문제없지만 프로젝트를 그대로 내려받은경우 루트경로에서 npm install 을 진행하여야 함
+* 위 과정이 정상적으로 진행되었다면 npm start 로 프로젝트를 시작 할 
+
+
+
